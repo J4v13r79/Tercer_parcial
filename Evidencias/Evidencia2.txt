@@ -1,0 +1,12 @@
+Número 1: 20
+Número 2: 8
+Resultado de la suma: 28
+Número 1: 20
+Número 2: 8
+Resultado de la resta: 12
+Número 1: 40
+Número 2: 16
+Resultado de la suma: 56
+Número 1: 40
+Número 2: 16
+Resultado de la resta: 24
